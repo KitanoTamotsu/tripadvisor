@@ -8,7 +8,7 @@ TripAdvisor.alfredworkflowのメモ
 　2.ファイルをダブルクリックしてワークフローに登録
 
 使い方：
-　Macで文字列を選択して⌥T
+　Macで文字列を選択して⌥T(HOTKEYはご自身で設定してください)
 
 
 開発メモ：
