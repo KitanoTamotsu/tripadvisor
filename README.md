@@ -1,2 +1,0 @@
-# tripadvisor
-Alfred workflow
