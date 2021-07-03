@@ -11,7 +11,7 @@
 
 #### インストール：
 
-  1.[alfredworkflow](https://)をダウンロード
+  1.[alfredworkflow](https://https://github.com/KitanoTamotsu/tripadvisor/releases/download/1.0/TripAdvisor.alfredworkflow.zip)をダウンロード
 
   2.ファイルをダブルクリックしてワークフローに登録
 
