@@ -4,13 +4,20 @@
 @import 'jekyll-theme-leap-day';
 
 h2 {
-  font-style: italic;
-  border-bottom: solid 1px #6495ed;  
+  font-size:12pt;   
+  color:#ffffff;
+  line-height:8;
+  background-color: #4276b6;
+}
+h4 {
+  margin-top:20px;
   font-size:11pt; 
-  color:#6495ed;
+  font-style: italic;
+  color:#4276b6;
+  border-bottom: solid 1px #4276b6;  
   }
 h3 {
-  text-shadow: 1px 1px 1px #888888;
   font-size:10pt; 
-  color:#ffd700;
+  color:#ffcc00;
+  text-shadow: 1px 1px 1px #888888;
   }
