@@ -2,6 +2,27 @@
 [トップページに戻る](https://kitanotamotsu.github.io/tripadvisor)
 
 
+
+#### 機能：
+
+  選択した文字列で、トリップアドバイザーを検索する
+
+  
+
+#### インストール：
+
+  1.[alfredworkflow](https://)をダウンロード
+
+  2.ファイルをダブルクリックしてワークフローに登録
+
+
+
+#### 使い方：
+
+　Macで文字列を選択してHOTKEY起動(HOTKEYは自分で設定が必要です)
+
+
+
 #### 開発メモ：
 
 1.検索結果のURLを解析する
@@ -31,27 +52,7 @@
 　なおHOTKEYのArgumentは、選択アイテム以外に、クリップボード、ペイストボード、固定テキスト、引数なしが指定可能
 
 
-<br><br><br><br><br>
-#### 機能：
 
-  選択した文字列で、トリップアドバイザーを検索する
-
-  
-<br><br><br><br><br>
-#### インストール：
-
-  1.[alfredworkflow](https://https://github.com/KitanoTamotsu/tripadvisor/releases/download/1.0/TripAdvisor.alfredworkflow.zip)をダウンロード
-
-  2.ファイルをダブルクリックしてワークフローに登録
-
-
-<br><br><br><br><br>
-#### 使い方：
-
-　Macで文字列を選択してHOTKEY起動(HOTKEYは自分で設定が必要です)
-
-
-<br><br><br><br><br>
 #### 背景：
 
 　トリップアドバイザーはよく利用するサイトですが、サイトでは検索する際の漢字変換がうまく作動しません。
