@@ -18,7 +18,8 @@
 ### 2.選択した文字列で検索させる
 　ワークフローの起点はいくつかありますが、今回はHOTKEYを利用します。
 <br>　HOTKEYの設定タブにArgumentという項目がありSelection in macOSを選択します
-<br>　後続のアクションはOpenURLとして、URLに下記の記述をします
+<br>　実はこの設定だけで選択中の文字列をAlfredに受け渡すことができます
+<br>　あとは、後続アクションのOpenURLで、URLに下記の記述をすればOKです
 <br>
 <br>　`https://www.tripadvisor.jp/Search?q={query}`
 <br>
