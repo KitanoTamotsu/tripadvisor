@@ -31,12 +31,12 @@
 <br>　固定テキスト、引数なしが指定可能
 <br>
 <br>　OpenURL
-<br>　<img width="600" alt="OpenURL" src="https://user-images.githubusercontent.com/40127279/126853922-007a54a0-3627-4492-a7a5-c978643f7714.png">
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/126853922-007a54a0-3627-4492-a7a5-c978643f7714.png">
 <br>
 <br>　おまけとして、選択したテキストをクリップボードに格納しておきました
 <br>　ワークフローを二股にして並行処理とすることができます
 <br>　CopyToClipboard
-<br>　<img width="600" alt="clipbaord" src="https://user-images.githubusercontent.com/40127279/126853973-5478e756-1a0e-4c3c-882c-8e70cffaf047.png">
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/126853973-5478e756-1a0e-4c3c-882c-8e70cffaf047.png">
 
 
 #### 背景
