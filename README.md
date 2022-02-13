@@ -1,4 +1,3 @@
-## 　　Lesson3.　選択中のテキストを{query}にする
 #### 開発メモ
 ワークフロー
 <br><img width="600" alt="lesson3" src="https://user-images.githubusercontent.com/40127279/126853884-380f4324-51d5-4dc3-908d-4c647407b38c.png">
